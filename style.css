@@ -1,0 +1,326 @@
+body {
+    background-color: rgb(201, 230, 255);
+}
+
+.header {
+    background-image: linear-gradient(to bottom,grey,black);
+    height: 90px;
+}
+.header h1 {
+    color: rgb(230, 230, 39);
+    font-size: 30px;
+    position: relative;
+    left: 20px;
+    top: 7px;
+    font-family:sans-serif;
+}
+a {
+    text-decoration: none;
+    color: aqua;
+    margin: 30px;
+}
+a:hover {
+    color: yellow;
+}
+.myrabot {
+    background-image: linear-gradient(to right,purple,yellow);
+    height: 80px;
+   
+    
+   
+}
+.myrabot h1 {
+    text-align: center;
+   padding-top: 15px;
+   font-size: 40px;
+   color: rgb(122, 0, 144);
+   
+}
+.rabot {
+    color: black;
+    padding-bottom: 20px;
+    padding-top: 20px;
+   
+}
+.rabot a:hover {
+    color: rgb(222, 249, 246);
+}
+.rabot a {
+    color: black;
+}
+
+
+.odin {
+    background-color: orange;
+    width: 182px;
+    height: 182px;
+    margin-bottom: 25px;
+}
+h2 {
+    text-align: center;
+    padding-top: 85px;
+}
+.cartinka {
+    background-color: rgb(152, 152, 152);
+    width: 145px;
+    height: 100px;
+    margin-left: 17px;
+    margin-top: 30px;
+  
+}
+.dva {
+      background-color: rgb(158, 0, 179);
+    width: 182px;
+    height: 182px;
+      margin-bottom: 25px;
+}
+.cartina {
+     background-color: rgb(152, 152, 152);
+    width: 145px;
+    height: 100px;
+    margin-left: 17px;
+    margin-top: 30px; 
+}
+.tri{
+      background-color: rgb(15, 179, 0);
+    width: 182px;
+    height: 182px;
+      margin-bottom: 25px;
+}
+.cartinky {
+     background-color: rgb(18, 192, 154);
+    width: 145px;
+    height: 100px;
+    margin-left: 17px;
+    margin-top: 30px; 
+    
+}
+.chetiri {
+     background-color: rgb(0, 154, 185);
+    width: 182px;
+    height: 182px;
+     margin-bottom: 25px;
+}
+.cartinkok {
+    background-color: rgb(63, 63, 63);
+    width: 145px;
+    height: 100px;
+    margin-left: 17px;
+    margin-top: 30px;
+  
+}
+.pyat {
+      background-color:  rgb(112, 255, 96);
+    width: 182px;
+    height: 182px;
+      margin-bottom: 25px;
+}
+.cartinkoko {
+     background-color: rgb(63, 63, 63);
+    width: 145px;
+    height: 100px;
+    margin-left: 17px;
+    margin-top: 30px; 
+}
+.shest{
+      background-color:  rgb(126, 69, 0);
+    width: 182px;
+    height: 182px;
+      margin-bottom: 25px;
+}
+.cartinkyky {
+     background-color:rgb(63, 63, 63);
+    width: 145px;
+    height: 100px;
+    margin-left: 17px;
+    margin-top: 30px; 
+}
+.sem {
+      background-color:  rgb(0, 81, 255);
+    width: 182px;
+    height: 182px;
+      margin-bottom: 25px;
+}
+.vosem {
+      background-color:  rgb(153, 162, 152);
+    width: 182px;
+    height: 182px;
+      margin-bottom: 25px;
+}
+.devat {
+      background-color:  rgb(153, 162, 152);
+    width: 182px;
+    height: 182px;
+      margin-bottom: 25px;
+}
+
+.rabot {
+   background-image: linear-gradient(to bottom right, yellow,purple,green);
+ 
+}
+.obomne {
+    background-image: linear-gradient(to right,yellow,green,purple);
+    width: 100%;
+    height: 100px;
+}
+.obomne h1 {
+    color: rgb(53, 2, 155);
+    text-align: center;
+    padding-top:25px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.rabot{
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+}
+.obo mne {
+  
+    margin-top: 25px;
+   
+}
+
+.list {
+    background-color: rgb(16, 187, 0);
+    width: 290px;
+    height: 360px;
+    margin: 15px;
+    float: left;
+    text-align: center;
+    border: 3px dotted  rgb(15, 107, 1);
+    
+   
+    
+}
+.listochek {
+    background-color: rgb(235, 243, 0);
+    width: 290px;
+    height: 360px;
+    margin: 15px;
+    float: right;
+    text-align: center;
+    border: 3px dotted  rgb(107, 107, 1);
+
+}
+.footer {
+    background-image: linear-gradient(to bottom,yellow,green,purple,black);
+    width: 100%;
+    height: 350px;
+    margin-top: 400px;
+}
+
+.project1{
+    position: relative;
+    top:5px;
+    font-size: 22px;
+}
+.project2{
+    position: relative;
+    top:15px;
+    font-size: 22px;
+}
+.project3{
+    position: relative;
+    top:25px;
+    font-size: 22px;
+
+}
+.project4{
+    position: relative;
+    top:0px;
+    font-size: 22px;
+}
+.project5{
+    position: relative;
+    top:7px;
+    font-size: 22px;
+}
+.project6{
+    position: relative;
+    top:25px;
+    font-size: 22px;
+}
+.project7{
+    position: relative;
+    top:10px;
+    font-size: 22px;
+}
+.project8{
+    position: relative;
+    top:115px;
+    font-size: 22px;
+}
+.project9{
+    position: relative;
+    top:115px;
+    font-size: 22px;
+}
+.project10{
+    position: relative;
+    top:115px;
+    font-size: 22px;
+}
+.footer h1 {
+    text-align: center;
+    margin-top: 2px;
+}
+.rabot img {
+    width: 150px;
+}
+a:hover {
+  
+    transition: all 0.2s;
+}
+.odin:hover {
+    transform: translateY(15px);
+    transition: all 1s;
+}
+.dva:hover {
+    transform: translateY(15px);
+    transition: all 1s;
+}
+.tri:hover {
+    transform: translateY(15px);
+    transition: all 1s;
+}
+.chetiri:hover {
+    transform: translateY(15px);
+    transition: all 1s;
+}
+.pyat:hover {
+    transform: translateY(15px);
+    transition: all 1s;
+}
+.shest:hover {
+    transform: translateY(15px);
+    transition: all 1s;
+}
+.sem:hover {
+    transform: translateY(15px);
+    transition: all 1s;
+}
+.list:hover {
+    transform: translateY(15px);
+    transition: all 1s;
+}
+.listochek:hover {
+    transform: translateY(15px);
+    transition: all 1s;
+}
+.etoya {
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 400px;
+
+}
+footer {
+    position: relative;
+    bottom: 380px;
+}
+.etoya {
+    display:flex;
+    justify-content: space-around;
+}
+.footur {
+    color: aqua;
+}
